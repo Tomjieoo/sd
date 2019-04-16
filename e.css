@@ -1,0 +1,41 @@
+*{margin:0px;padding:0px;}
+.da{width:100%;}
+.top{width:1200px;height:80px;margin:auto; }
+.top-z{width:440px;height:80px;float:left;}
+.top-z img{height:80px;float:left;}
+.top-z p{line-height:80px;font-weight:bold;color:#f39203;}
+.top-y{width:280px;height:80px;float:right;}
+.top-y ul{list-style:none;display:flex;justify-content:space-between;}
+.top-y ul li{float:left;}
+.top-y1{width:280px;height:46px;line-height:46px;}
+.top-y1 img{float:left;width:40px;height:46px;display:inline;}
+.top-y1 span{float:left;color:#038dd8;font-weight:bold;}
+.top1{width:100%;height:346px;background-image:url(images/s4_02.png);background-repeat:no-repeat;background-size:100% 346px; }
+.shou{width:1200px;height:60px;margin:auto;}
+.shou ul{list-style:none;display:flex;justify-content:space-between;}
+.shou ul li{float:left;line-height:60px;}
+.shou ul li a{text-decoration:none;color:#038dd8;}
+.shou ul li a:hover{color:red;}
+.zhong{width:1200px;height:980px;border:1px solid #eae8e8;margin:auto ;}
+.zhong1{width:1180px;height:1100px;}
+.q1{width:1180px;height:80px;}
+.zhong .zhong1-z{width:180px;height:80px;float:left;}
+.zhong .zhong1-y{width:320px;height:80px;float:right;}
+.zhong .zhong1-y ul{list-style:none;margin-left:40px;}
+.zhong .zhong1-y ul li{float:left;line-height:80px;}
+.zhong .zhong1-y ul li a{text-decoration:none;color:black;font-size:14px;color:#7c7b7b;}
+.zhong .zhong1-y ul li a:hover{color:red;}
+.zhong .zhong1 .zhong2{width:1000px;height:900px;margin:auto;margin-top:40px; }
+.zhong .zhong1 .zhong2 .zhong2-a{width:1000px;height:600px;list-style:none;}
+.zhong .zhong1 .zhong2 .zhong2-b{width:1000px;height:200px;margin-top:40px;display:flex;justify-content:space-between;list-style:none;}
+.zhong .zhong1 .zhong2 .zhong2-b li{width:160px;height:160px;}
+.di{width:100%;height:60px;background-color:#7ccbe7;margin-top:20px;}
+.di-z{width:600px;height:60px;margin:auto;}
+.di-z ul{list-style:none;display:flex;justify-content:space-between;line-height:60px;}
+.di-z ul a{text-decoration:none;color:#066080;}
+.di-z ul a:hover{color:red;}
+.wei{width:100%;height:400px;background-color:#44b4dc;}
+.wei1{width:1200px;height:400px;margin:auto ;}
+.wei1 ul{width:1200px;height:360px;list-style:none;display:flex;justify-content:space-between;}
+.wei1 ul p{color:white;}
+.wei1 ul li{width:300px;margin-top:80px;}
